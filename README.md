@@ -4,7 +4,7 @@
 
 预览：[https://sivan.github.io/heti/](https://sivan.github.io/heti/)
 
-![Preview](https://raw.githubusercontent.com/sivan/heti/master/_site/assets/screenshot-grid.png)
+![Preview](https://raw.githubusercontent.com/rt3rrgr/chnfay/master/_site/assets/screenshot-grid.png)
 
 主要特性：
 - 贴合网格的排版；
